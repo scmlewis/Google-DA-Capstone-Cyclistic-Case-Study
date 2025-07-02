@@ -16,5 +16,3 @@ This repository contains the portfolio for my Google Data Analytics Capstone Pro
 - R
 - PowerBI
 
-## Contact
-[Your Name] | [LinkedIn URL] | [Email]
