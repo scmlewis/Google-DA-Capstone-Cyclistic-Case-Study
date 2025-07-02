@@ -6,13 +6,12 @@ This repository contains the portfolio for my Google Data Analytics Capstone Pro
 - [Ask Phase](ask_phase.md): Defines the business problem and SMART questions.
 - [Prepare Phase](prepare_phase.md): Describes the dataset and quality checks.
 - [Process Phase](process_phase.md): Details data cleaning and transformation.
-- [Analyze Phase](analyze_phase.md): Summarizes analysis findings (forthcoming).
-- [Share Phase](share_phase.md): Presents visualizations (forthcoming).
-- [Act Phase](act_phase.md): Provides recommendations (forthcoming).
+- [Analyze Phase](analyze_phase.md): Summarizes analysis findings.
+- [Share Phase](share_phase.md): Presents visualizations.
+- [Act Phase](act_phase.md): Provides recommendations.
 
 ## Tools
 - SQLite (DB Browser for SQLite)
 - Excel
-- R
 - PowerBI
 
