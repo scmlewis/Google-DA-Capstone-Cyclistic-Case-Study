@@ -1,4 +1,5 @@
 # Cyclistic Bike-Share Analysis Portfolio
+![image](https://github.com/user-attachments/assets/423a5c4c-9f94-4533-859b-fa8ecb66c58a)
 
 This repository contains the portfolio for my Google Data Analytics Capstone Project, analyzing Cyclistic bike-share data to inform marketing strategies. The project follows the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act, using a dataset of 5,860,568 bike trips from January to December 2024, sourced from Divvy’s public repository.
 
